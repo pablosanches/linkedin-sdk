@@ -1,0 +1,30 @@
+{
+  "name": "linkedin-sdk",
+  "version": "1.0.0",
+  "description": "A simple sdk to consume the linkedin restful api",
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=7"
+  },
+  "author": "Pablo Sanches <sanches.webmaster@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "keywords": ["linkedin"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablosanches/linkedin-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pablosanches/linkedin-sdk/issues"
+  },
+  "homepage": "https://github.com/pablosanches/linkedin-sdk#readme"
+}
