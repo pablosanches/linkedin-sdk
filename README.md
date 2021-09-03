@@ -1,4 +1,4 @@
-# node-linkedin
+# LinkedInSDK
 
 #### Official API Docs
 
