@@ -1,5 +1,5 @@
 {
-  "name": "linkedin-sdk",
+  "name": "@pablosanches/linkedinsdk",
   "version": "1.0.0",
   "description": "A simple sdk to consume the linkedin restful api",
   "directories": {
@@ -18,7 +18,9 @@
   "dependencies": {
     "axios": "^0.21.1"
   },
-  "keywords": ["linkedin"],
+  "keywords": [
+    "linkedin"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pablosanches/linkedin-sdk.git"
@@ -26,5 +28,6 @@
   "bugs": {
     "url": "https://github.com/pablosanches/linkedin-sdk/issues"
   },
-  "homepage": "https://github.com/pablosanches/linkedin-sdk#readme"
+  "homepage": "https://github.com/pablosanches/linkedin-sdk#readme",
+  "devDependencies": {}
 }
