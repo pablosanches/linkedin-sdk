@@ -1,5 +1,5 @@
 {
-  "name": "@pablosanches/linkedinsdk",
+  "name": "@pablosanches/linkedin-sdk",
   "version": "1.0.0",
   "description": "A simple sdk to consume the linkedin restful api",
   "directories": {
